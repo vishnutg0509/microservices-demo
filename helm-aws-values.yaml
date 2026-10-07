@@ -1,0 +1,6 @@
+frontend:
+  externalService: true
+  platform: aws
+  image:
+    repository: 075810104493.dkr.ecr.ap-southeast-2.amazonaws.com/boutique-frontend
+    tag: manual-1
